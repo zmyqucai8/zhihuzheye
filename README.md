@@ -1,5 +1,5 @@
 # zhihuzheye
-This is a kotlin project
+
 这是一个kotlin Demo
 
 包含3个模块：
